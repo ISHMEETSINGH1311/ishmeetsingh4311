@@ -16,44 +16,7 @@
 
 # 🚀 About Me
 
-🎓 I am a First-Year B.Tech Computer Science and Engineering (Core) student at **VIT Chennai** with a strong passion for technology, coding, and continuous learning.
-
-💡 I enjoy:
-- Solving logical and programming problems
-- Building real-world projects
-- Exploring modern technologies
-- Learning through hands-on experience
-
-🤖 My primary interests include:
-- Artificial Intelligence
-- Machine Learning
-- Software Development
-- Backend Development
-
-💻 I primarily work with **Python** and also have experience with:
-- C
-- C++
-- NumPy
-- Pandas
-- Matplotlib
-- Scikit-learn
-
-⚙️ I am also familiar with:
-- GitHub & Version Control
-- NVIDIA Technologies
-- SolidWorks
-- Epic Games Development Environment
-
-🎯 My goal is to strengthen my foundation in:
-- Data Structures & Algorithms
-- AI/ML Concepts
-- Backend Development
-- Problem Solving
-- Software Engineering
-
-while continuously building impactful projects and improving my development skills.
-
----
+I am a first-year B.Tech Computer Science and Engineering (Core) student at VIT Chennai with a strong interest in technology, programming, and continuous learning. I enjoy solving logical problems, building projects, and exploring different domains of computer science, especially Artificial Intelligence, Machine Learning, and Software Development. I am proficient in Python and also have experience with C and C++. Alongside programming, I have worked with libraries and tools such as NumPy, Pandas, Matplotlib, and Scikit-learn for data analysis and machine learning. I am also familiar with GitHub for version control and collaboration. Beyond programming, I have explored technologies and platforms including NVIDIA tools, Epic Games environments, and SolidWorks for design and engineering applications. Currently, I am focused on strengthening my understanding of: - Data Structures & Algorithms - Backend Development - Machine Learning - AI/ML Concepts - Software Development My goal is to build impactful real-world projects, participate in hackathons, and grow into a skilled Software Developer and AI/ML Engineer.
 
 # 🌐 Connect With Me
 
