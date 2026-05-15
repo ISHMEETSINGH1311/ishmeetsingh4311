@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ishmeet Singh Chadha</h1>
 
 <h3 align="center">
-🚀 First-Year B.Tech CSE (Core) Student at VIT Chennai
+First-Year B.Tech CSE (Core) Student at VIT Chennai
 </h3>
 
 <p align="center">
@@ -14,11 +14,30 @@
 
 ---
 
-# # Introduction
+# Introduction
 
-I am a first-year B.Tech Computer Science and Engineering (Core) student at VIT Chennai with a strong interest in technology, programming, and continuous learning. I enjoy solving logical problems, building projects, and exploring different domains of computer science, especially Artificial Intelligence, Machine Learning, and Software Development. I am proficient in Python and also have experience with C and C++. Alongside programming, I have worked with libraries and tools such as NumPy, Pandas, Matplotlib, and Scikit-learn for data analysis and machine learning. I am also familiar with GitHub for version control and collaboration. Beyond programming, I have explored technologies and platforms including NVIDIA tools, Epic Games environments, and SolidWorks for design and engineering applications. Currently, I am focused on strengthening my understanding of: - Data Structures & Algorithms - Backend Development - Machine Learning - AI/ML Concepts - Software Development My goal is to build impactful real-world projects, participate in hackathons, and grow into a skilled Software Developer and AI/ML Engineer.
+I am a first-year B.Tech Computer Science and Engineering (Core) student at VIT Chennai with a strong interest in technology, programming, and continuous learning.
 
-# 🌐 Connect With Me
+I enjoy solving logical problems, building projects, and exploring different domains of computer science, especially Artificial Intelligence, Machine Learning, and Software Development.
+
+My strongest programming language is Python, and I also have experience with C and C++. Alongside programming, I have worked with libraries and tools such as NumPy, Pandas, Matplotlib, and Scikit-learn for data analysis and machine learning.
+
+I am also familiar with GitHub for version control and collaboration.
+
+Beyond programming, I have explored technologies and platforms including NVIDIA tools, Epic Games environments, and SolidWorks for design and engineering applications.
+
+Currently, I am focused on strengthening my understanding of:
+- Data Structures & Algorithms
+- Backend Development
+- Machine Learning
+- AI/ML Concepts
+- Software Development
+
+My goal is to build impactful real-world projects, participate in hackathons, and grow into a skilled Software Developer and AI/ML Engineer.
+
+---
+
+# Connect
 
 <p align="center">
 
@@ -36,9 +55,27 @@ I am a first-year B.Tech Computer Science and Engineering (Core) student at VIT 
 
 </p>
 
+<br>
+
+<p align="center">
+
+<a href="https://leetcode.com/u/ishmeet_singh13/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/ishmeetsingh4311" target="_blank">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/users/ishmeetsingh13" target="_blank">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+</p>
+
 ---
 
-# 💻 Tech Stack
+# Tech Stack
 
 ## 👨‍💻 Languages
 
@@ -86,7 +123,7 @@ I am a first-year B.Tech Computer Science and Engineering (Core) student at VIT 
 
 ---
 
-# 📈 GitHub Stats
+# GitHub Stats
 
 <p align="center">
 
@@ -104,7 +141,7 @@ I am a first-year B.Tech Computer Science and Engineering (Core) student at VIT 
 
 ---
 
-# 🏆 GitHub Achievements
+# GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ishmeetsingh4311&theme=tokyonight&no-frame=true&row=1&column=6" />
@@ -112,7 +149,7 @@ I am a first-year B.Tech Computer Science and Engineering (Core) student at VIT 
 
 ---
 
-# 🧠 Currently Learning
+# Currently Learning
 
 ```python
 currently_learning = [
