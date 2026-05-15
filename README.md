@@ -1,7 +1,8 @@
+````html
 <h1 align="center">Hi 👋, I'm Ishmeet Singh Chadha</h1>
 
 <h3 align="center">
-First-Year B.Tech CSE (Core) Student at VIT Chennai
+🚀 First-Year B.Tech CSE (Core) Student at VIT Chennai
 </h3>
 
 <p align="center">
@@ -9,22 +10,26 @@ First-Year B.Tech CSE (Core) Student at VIT Chennai
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ishmeetsingh4311&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=ISHMEETSINGH1311&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
 
-# Introduction
+# 🚀 Introduction
 
 I am a first-year B.Tech Computer Science and Engineering (Core) student at VIT Chennai with a strong interest in technology, programming, and continuous learning.
 
 I enjoy solving logical problems, building projects, and exploring different domains of computer science, especially Artificial Intelligence, Machine Learning, and Software Development.
 
-My strongest programming language is Python, and I also have experience with C and C++. Alongside programming, I have worked with libraries and tools such as NumPy, Pandas, Matplotlib, and Scikit-learn for data analysis and machine learning.
+My strongest programming language is Python, and I also have experience with C and C++.
+
+Alongside programming, I have worked with libraries and tools such as:
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
 
 I am also familiar with GitHub for version control and collaboration.
-
-Beyond programming, I have explored technologies and platforms including NVIDIA tools, Epic Games environments, and SolidWorks for design and engineering applications.
 
 Currently, I am focused on strengthening my understanding of:
 - Data Structures & Algorithms
@@ -37,7 +42,7 @@ My goal is to build impactful real-world projects, participate in hackathons, an
 
 ---
 
-# Connect
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -75,7 +80,7 @@ My goal is to build impactful real-world projects, participate in hackathons, an
 
 ---
 
-# Tech Stack
+# 💻 Tech Stack
 
 ## 👨‍💻 Languages
 
@@ -123,33 +128,33 @@ My goal is to build impactful real-world projects, participate in hackathons, an
 
 ---
 
-# GitHub Stats
+# 📈 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ishmeetsingh4311&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ISHMEETSINGH1311&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ishmeetsingh4311&theme=tokyonight&hide_border=true" height="180em"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ISHMEETSINGH1311&theme=tokyonight&hide_border=true" height="180em"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishmeetsingh4311&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ISHMEETSINGH1311&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
-
----
-
-# GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ishmeetsingh4311&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-# Currently Learning
+# 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ISHMEETSINGH1311&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+# 📚 Currently Learning
 
 ```python
 currently_learning = [
@@ -159,3 +164,7 @@ currently_learning = [
     "AI/ML Concepts",
     "Software Development"
 ]
+````
+
+```
+```
